@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Роман Волков](https://up.htmlacademy.ru/adaptive/30/user/2069571).
-* Наставник: [Екатерина Комнатная] (https://htmlacademy.ru/profile/id215761).
+* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
 
 ---
 
